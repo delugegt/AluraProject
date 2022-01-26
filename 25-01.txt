@@ -1,0 +1,21 @@
+lib -> 
+
+material ui 
+storybook 
+FIGMA 
+skynexUI
+
+tools -> 
+yarn 
+npm
+styled JSX
+
+coolors.co
+
+
+yarn init -y
+npm install --global yarn
+acentuação
+yarn add next react react-dom
+yarn dev
+yarn add @skynexui/components 
